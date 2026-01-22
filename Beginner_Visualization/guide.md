@@ -67,3 +67,34 @@ Choosing the wrong chart can hide trends, exaggerate patterns, or mislead decisi
 ### 6. Key Takeaway
 Visualization should be selected based on *who* is consuming the insight and *what decision*
 needs to be made, not just on aesthetic preference.
+
+## 7. Example Graph Types with Use-Cases
+
+This section summarizes common visualization types supported by Matplotlib
+and Plotly, along with their practical use-cases.
+
+### Line Plot
+- **Description:** Displays data trends over time.
+- **Use Case:** Tracking revenue growth, AQI trends, or performance metrics.
+- **Code Reference:** See `matplotlib_decisions.ipynb` and `plotly_decisions.ipynb`.
+
+### Bar Chart
+- **Description:** Compares values across categories.
+- **Use Case:** Comparing monthly sales, pollutant levels, or category-wise counts.
+- **Code Reference:** See `matplotlib_decisions.ipynb` and `plotly_decisions.ipynb`.
+
+### Scatter Plot
+- **Description:** Shows the relationship between two numerical variables.
+- **Use Case:** Identifying correlation between marketing spend and revenue
+  or pollutants and AQI.
+- **Code Reference:** See `plotly_decisions.ipynb`.
+
+### Histogram
+- **Description:** Displays the distribution of a dataset.
+- **Use Case:** Understanding AQI distribution or revenue frequency.
+- **Code Reference:** See `matplotlib_decisions.ipynb`.
+
+### Interactive Charts
+- **Description:** Charts that allow zooming, hovering, and filtering.
+- **Use Case:** Exploratory data analysis and stakeholder presentations.
+- **Code Reference:** See `plotly_decisions.ipynb`.
