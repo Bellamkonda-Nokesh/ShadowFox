@@ -229,17 +229,23 @@ jupyter notebook urban_air_quality_advanced.ipynb
 
 ## 📸 Sample Visualizations
 
-### Risk Category Distribution (Donut + Bar)
-![Risk Distribution](images/Risk_Distribution.png)
+### 🔴 Risk Category Distribution (Donut + Bar)
+![Risk Distribution](Risk_Distribution.png)
 
-### Seasonal Pattern Analysis Dashboard
-![Seasonal Analysis](#)
+---
 
-### Pollutant Correlation Heatmap
-![Correlation Matrix](#)
+### 🌦️ Seasonal Pattern Analysis Dashboard
+![Seasonal Analysis](Seasonal_Analysis.png)
 
-### Time Series with Rolling Averages
-![Time Series](#)
+---
+
+### 🧪 Pollutant Correlation Heatmap
+![Correlation Matrix](Correlation_Matrix.png)
+
+---
+
+### 📈 Time Series with Rolling Averages
+![Time Series](Time_Series.png)
 
 *(Screenshots to be added after running the notebook)*
 
