@@ -231,7 +231,7 @@ jupyter notebook urban_air_quality_advanced.ipynb
 ## 📸 Sample Visualizations
 
 ### 🔴 Risk Category Distribution (Donut + Bar)
-![Risk Distribution](images/Risk_Distribution.png)
+![Risk Distribution](images/image1.png)
 
 ---
 
