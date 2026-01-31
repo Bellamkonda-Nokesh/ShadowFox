@@ -10,12 +10,12 @@
 
 ## 👨‍💻 Intern Information
 
-**Name:** [Your Name]  
+**Name:** Bellamkonda Nokesh  
 **Internship:** ShadowFox Data Science Internship  
 **Period:** January 2026  
 **Location:** Remote  
-**LinkedIn:** [Your LinkedIn Profile]  
-**GitHub:** [Your GitHub Profile]  
+**LinkedIn:** [https://www.linkedin.com/in/nokesh-bellamkonda-39b665249/]  
+**GitHub:** [https://github.com/Bellamkonda-Nokesh]  
 
 ---
 
@@ -569,62 +569,7 @@ python-docx==1.1.2     # Word document creation
 
 ---
 
-## 📦 Deliverables
 
-### Project Files
-
-```
-ShadowFox_DataScience_Internship/
-│
-├── Task_1_Visualization_Documentation/
-│   ├── README.md
-│   ├── Visualization_Guide.ipynb
-│   ├── Matplotlib_vs_Plotly.pdf
-│   ├── code_snippets/
-│   │   ├── matplotlib_templates.py
-│   │   ├── plotly_templates.py
-│   │   └── seaborn_templates.py
-│   ├── data/
-│   │   ├── sales_data.csv
-│   │   └── customer_data.csv
-│   └── outputs/
-│       ├── line_plots.png
-│       ├── scatter_plots.png
-│       ├── dashboard_example.png
-│       └── [50+ visualization examples]
-│
-├── Task_2_Sentiment_Analysis/
-│   ├── README.md
-│   ├── Twitter_Sentiment_Analysis.ipynb
-│   ├── Sentiment_Report.pdf
-│   ├── data/
-│   │   ├── twitter_data.csv
-│   │   └── cleaned_tweets.csv
-│   ├── visualizations/
-│   │   ├── sentiment_overview.png
-│   │   ├── wordcloud_analysis.png
-│   │   ├── temporal_patterns.png
-│   │   └── engagement_analysis.png
-│   └── requirements.txt
-│
-├── Task_3_Delhi_AQI_Analysis/
-│   ├── README.md
-│   ├── delhi_air_story.ipynb
-│   ├── Delhi_AQI_Report.pdf
-│   ├── data/
-│   │   └── delhi_aqi.csv (18,778 records)
-│   ├── visualizations/
-│   │   ├── pollution_clock.png
-│   │   ├── danger_calendar.png
-│   │   ├── pollutant_personalities.png
-│   │   ├── health_impact.png
-│   │   └── action_dashboard.png
-│   └── requirements.txt
-│
-├── INTERNSHIP_README.md (this file)
-├── requirements.txt (master dependencies)
-├── LICENSE
-└── .gitignore
 ```
 
 ### Documentation
@@ -794,10 +739,9 @@ This repository demonstrates:
 
 ## 🔗 Connect With Me
 
-**LinkedIn:** [Your LinkedIn Profile URL]  
-**GitHub:** [Your GitHub Profile URL]  
-**Portfolio:** [Your Portfolio Website]  
-**Email:** [Your Email Address]  
+**LinkedIn:** [https://www.linkedin.com/in/nokesh-bellamkonda-39b665249/]  
+**GitHub:** [https://github.com/Bellamkonda-Nokesh]  
+**Email:** [bellamkondanokesh8@gmail.com]  
 
 ### Let's Connect!
 
@@ -988,9 +932,9 @@ I'm actively seeking **Data Scientist** / **Data Analyst** / **ML Engineer** opp
 
 **Let's connect and discuss how I can contribute to your team!**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](your-linkedin-url)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](your-github-url)
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:your-email)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/nokesh-bellamkonda-39b665249/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Bellamkonda-Nokesh)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:bellamkondanokesh8@gmail.com)
 
 ---
 
