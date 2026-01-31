@@ -235,19 +235,18 @@ jupyter notebook urban_air_quality_advanced.ipynb
 ---
 
 ### 🌦️ Seasonal Pattern Analysis Dashboard
-![Seasonal Analysis](Seasonal_Analysis.png)
+![Seasonal Analysis](images/Seasonal_Analysis.png)
 
 ---
 
 ### 🧪 Pollutant Correlation Heatmap
-![Correlation Matrix](Correlation_Matrix.png)
+![Correlation Matrix](images/Correlation_Matrix.png)
 
 ---
 
 ### 📈 Time Series with Rolling Averages
-![Time Series](Time_Series.png)
+![Time Series](images/Time_Series.png)
 
-*(Screenshots to be added after running the notebook)*
 
 ---
 
