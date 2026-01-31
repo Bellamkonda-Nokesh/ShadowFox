@@ -246,7 +246,7 @@ jupyter notebook urban_air_quality_advanced.ipynb
 ---
 
 ### 📈 Time Series with Rolling Averages
-![Time Series](images/Time_Series.png)
+![Time_Series](images/Time_Series.png)
 
 
 
