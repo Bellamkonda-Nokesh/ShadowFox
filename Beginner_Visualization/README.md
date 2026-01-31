@@ -52,18 +52,7 @@ jupyter notebook Visualization_Guide.ipynb
 
 ---
 
-## 📂 What's Included
 
-```
-Task_1_Visualization_Documentation/
-├── README.md (this file)
-├── Visualization_Guide.ipynb (main notebook with all examples)
-├── Visualization_Guide.pdf (documentation in PDF format)
-├── data/
-│   ├── sales_data.csv
-│   └── customer_data.csv
-└── outputs/
-    └── [generated visualizations]
 ```
 
 ---
