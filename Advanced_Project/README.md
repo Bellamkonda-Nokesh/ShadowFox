@@ -227,10 +227,11 @@ jupyter notebook urban_air_quality_advanced.ipynb
 
 ---
 
+
 ## 📸 Sample Visualizations
 
 ### 🔴 Risk Category Distribution (Donut + Bar)
-![Risk Distribution](images/Correlation_Matrix.png)
+![Risk Distribution](images/Risk_Distribution.png)
 
 ---
 
@@ -246,6 +247,7 @@ jupyter notebook urban_air_quality_advanced.ipynb
 
 ### 📈 Time Series with Rolling Averages
 ![Time Series](images/Time_Series.png)
+
 
 
 ---
