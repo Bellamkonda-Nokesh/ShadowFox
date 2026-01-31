@@ -245,24 +245,6 @@ StandardScaler, train_test_split
 
 ---
 
-## 📂 **FILE STRUCTURE**
-
-```
-Delhi_Air_Revolution/
-│
-├── 📓 delhi_air_revolution.ipynb
-│   ├── Phase 1: Data Engineering & Feature Creation
-│   ├── Phase 2: Pollution DNA Analysis
-│   └── Phase 3: Temporal Sculptures (3D visualizations)
-│
-├── 📓 delhi_air_revolution_part2.ipynb
-│   ├── Phase 4: Machine Learning Intelligence
-│   ├── Phase 5: Advanced Visualizations
-│   └── Phase 6: Actionable Intelligence
-│
-├── 📊 delhi_aqi.csv (18,778 hours of data)
-│
-└── 📖 README_REVOLUTIONARY.md (This file)
 ```
 
 ---
