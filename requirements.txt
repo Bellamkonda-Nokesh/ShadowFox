@@ -1,0 +1,50 @@
+# ShadowFox Data Science Internship
+# Master Requirements File
+# Python 3.8+
+
+# ===== CORE DATA SCIENCE LIBRARIES =====
+numpy==2.3.5
+pandas==2.3.3
+scipy==1.14.1
+
+# ===== VISUALIZATION LIBRARIES =====
+matplotlib==3.10.7
+seaborn==0.13.2
+plotly==5.18.0
+
+# ===== NLP & TEXT ANALYSIS =====
+nltk==3.8.1
+vaderSentiment==3.3.2
+wordcloud==1.9.3
+
+# ===== MACHINE LEARNING =====
+scikit-learn==1.5.2
+
+# ===== JUPYTER & NOTEBOOK =====
+jupyter==1.1.1
+notebook==7.2.2
+ipykernel==6.29.5
+ipywidgets==8.1.5
+
+# ===== FILE HANDLING =====
+openpyxl==3.1.5
+python-pptx==1.0.2
+python-docx==1.1.2
+pypdf2==3.0.1
+
+# ===== UTILITIES =====
+requests==2.32.3
+beautifulsoup4==4.12.3
+lxml==5.3.0
+
+# ===== DEVELOPMENT TOOLS =====
+black==24.8.0
+flake8==7.1.1
+pytest==8.3.3
+
+# ===== OPTIONAL ENHANCEMENTS =====
+# Uncomment if needed
+# dash==2.18.1               # For interactive dashboards
+# streamlit==1.39.0          # For web apps
+# tensorflow==2.18.0         # For deep learning
+# torch==2.5.1               # For PyTorch models
